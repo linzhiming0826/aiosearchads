@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+aiosearchads/__init__.py
+aiosearchads/__version__.py
+aiosearchads.egg-info/PKG-INFO
+aiosearchads.egg-info/SOURCES.txt
+aiosearchads.egg-info/dependency_links.txt
+aiosearchads.egg-info/not-zip-safe
+aiosearchads.egg-info/requires.txt
+aiosearchads.egg-info/top_level.txt
