@@ -81,7 +81,7 @@ Fetches campaigns with selector operators and return results looks like this: ::
 
 
 Other
----
+-----
 
 Call an action and return results looks like this: ::
 
