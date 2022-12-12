@@ -6,7 +6,8 @@ from setuptools import setup, find_packages
 
 
 requirements = [
-    'aiohttp>=3.6.2'
+    'aiohttp>=3.6.2',
+    'pyjwt>=1.7.1'
 ]
 
 with open("README.md", "r") as fh:
