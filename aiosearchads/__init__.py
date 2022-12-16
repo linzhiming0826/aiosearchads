@@ -52,6 +52,8 @@ class AioSearchAds:
             algorithm=alg,
             key=self.private_key
         )
+        if isinstance(client_secret, str):
+            return client_secret
         return client_secret.decode("utf-8")
 
     async def create_token(self):
